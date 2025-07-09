@@ -71,12 +71,6 @@ Then ask questions such as:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to fork and extend!
-
----
-
 ## 👤 Author
 
 **Sumit Kumar**  
